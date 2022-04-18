@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DayOfTheWeek
+comment0.text=\n\ Prints\ day\ of\ the\ week\n\n\ @author\ (Andrew\ Choi)\n\ @version\ (02/18/2020)\n
+comment1.params=
+comment1.target=DayOfTheWeek()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DayOfTheWeek\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Your\ program\ should\ prompt\ \n\ the\ user\ for\ three\ integers\ \n\ representing\ the\ month,\ \n\ the\ day\ of\ the\ month,\ \n\ and\ the\ four-digit\ year,\ \n\ and\ then\ print\ the\ \n\ corresponding\ \n\ day\ of\ the\ week.\ \n\ @param\ args\ no\ needed\n
+numComments=4
